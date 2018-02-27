@@ -1,29 +1,34 @@
  {
   "name": "TNCC Team",
-
+  "parent": null,
   "Status": "None",
   "children": [
    {
     "name": "A",
+    "parent": "TNCC Team",
     "Status": "None",
     "children": [
      {
       "name": "M MUDONHI ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "A VIRK ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "J BUCKLEY ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "D MOISA ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
@@ -35,25 +40,30 @@
      },
      {
       "name": "A HASTIE ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "J MANGWENDE ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "I MUKERJEE ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "M McGILL ",
+      "parent": "A",
       "Status": "None",
       "children": [
        {
         "name": "◊ BP1761: Alarm and Metering Fault Management and Reporting + NOC13",
+        "parent": "M McGILL ",
         "Status": "READY FOR REVIEW",
         "DueDate": "28 Feb 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1761.docx",
@@ -63,25 +73,30 @@
      },
      {
       "name": "J FIEVEZ ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "A GOLDINGAY ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "S SINGH ",
+      "parent": "A",
       "Status": "None",
       "children": []
      },
      {
       "name": "TEAM A TBC ",
+      "parent": "A",
       "Status": "None",
       "children": [
        {
         "name": "BP1503: EMF Enquiries and Aircraft Obstruction Light Failure ",
+        "parent": "TEAM A TBC ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1503.docx",
@@ -89,6 +104,7 @@
        },
        {
         "name": "BP1505: GB Transmission System Demand Control",
+        "parent": "TEAM A TBC ",
         "Status": "UNKNOWN",
         "DueDate": "UNKNOWN",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1505D%20-%20BCM.docx",
@@ -96,6 +112,7 @@
        },
        {
         "name": "BP1513: Temporary Delegation of Authority and Multi User Switching",
+        "parent": "TEAM A TBC ",
         "Status": "UNKNOWN",
         "DueDate": "UNKNOWN",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1513%20-%20Withdrawn.docx",
@@ -103,6 +120,7 @@
        },
        {
         "name": "BP1706: Site Communication Requirements",
+        "parent": "TEAM A TBC ",
         "Status": "UNKNOWN",
         "DueDate": "UNKNOWN",
         "ETOlink": "n/a",
@@ -112,10 +130,12 @@
      },
      {
       "name": "D POINTON ",
+      "parent": "A",
       "Status": "None",
       "children": [
        {
         "name": "BP1717: Switchgear - HV Equipment Washing",
+        "parent": "D POINTON ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1717.docx",
@@ -123,6 +143,7 @@
        },
        {
         "name": "BP1720: Cable Systems, Tunnels and Culverts",
+        "parent": "D POINTON ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1720.docx",
@@ -130,6 +151,7 @@
        },
        {
         "name": "BP1725: Transformers - Transformer and Quad Booster Phenomena",
+        "parent": "D POINTON ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1725.docx",
@@ -137,6 +159,7 @@
        },
        {
         "name": "BP1726: High Accuracy Metering VT/CT Gas Detection Device",
+        "parent": "D POINTON ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1726%20-%20Withdrawn.doc",
@@ -144,6 +167,7 @@
        },
        {
         "name": "BP1727: Transformer Alarms",
+        "parent": "D POINTON ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1727.docx",
@@ -155,14 +179,17 @@
    },
    {
     "name": "B",
+    "parent": "TNCC Team",
     "Status": "None",
     "children": [
      {
       "name": "A EAGLE ",
+      "parent": "B",
       "Status": "None",
       "children": [
        {
         "name": "◊ BP1519: Voice Recording System",
+        "parent": "A EAGLE ",
         "Status": "UNKNOWN",
         "DueDate": "28 Feb 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1519.doc",
@@ -170,6 +197,7 @@
        },
        {
         "name": "◊ BP1804: Application of Thermal Schedules",
+        "parent": "A EAGLE ",
         "Status": "UNKNOWN",
         "DueDate": "28 Feb 18",
         "ETOlink": "n/a",
@@ -179,25 +207,30 @@
      },
      {
       "name": "S COLE ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "M GAY ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "A DREW ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "C MIREA ",
+      "parent": "B",
       "Status": "None",
       "children": [
        {
         "name": "BP1715: Wound Plant Linear Resonance and VT Ferroresonance",
+        "parent": "C MIREA ",
         "Status": "UNKNOWN",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1715.docx",
@@ -205,6 +238,7 @@
        },
        {
         "name": "BP1716: Transformers - Ferroresonance",
+        "parent": "C MIREA ",
         "Status": "IN PROGRESS",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1706%20-%20Withdrawn.docx",
@@ -212,6 +246,7 @@
        },
        {
         "name": "BP1750: Switchgear - GIS (Safety Management)",
+        "parent": "C MIREA ",
         "Status": "IN PROGRESS",
         "DueDate": "12 Mar 18",
         "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1750.docx",
@@ -221,43 +256,1105 @@
      },
      {
       "name": "R REHMAN ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "A MANNING ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "D NICHOLLS ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "K LI ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "C JARVIS ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "D HUNTING ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
      {
       "name": "P WALKER ",
+      "parent": "B",
       "Status": "None",
       "children": []
      },
-     ]
-   }
+     {
+      "name": "C CHAUHAN ",
+      "parent": "B",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "TEAM B TBC ",
+      "parent": "B",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1731: Switchgear - OIBR140 400kV Air Blast Circuit Breakers",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1731.docx",
+        "children": []
+       },
+       {
+        "name": "BP1733: Switchgear - 420FE2, 420FEX2, 420MFE2 & 300FE2-40 SF6 Circuit Breakers",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1733.docx",
+        "children": []
+       },
+       {
+        "name": "BP1734: Switchgear - FG1 145kV SF6 Circuit Breakers",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1734.docx",
+        "children": []
+       },
+       {
+        "name": "BP1735: Switchgear - OBR60 275kV Air Blast Circuit Breakers",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1735.docx",
+        "children": []
+       },
+       {
+        "name": "BP1736: Switchgear - Frame R Circuit Breakers",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1736.docx",
+        "children": []
+       },
+       {
+        "name": "BP1737: Switchgear - Circuit Breaker Fault Operations Database",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1737.docx",
+        "children": []
+       },
+       {
+        "name": "BP1739: Switchgear – FQ2 & FQ4 Switch Disconnector Operating Restrictions",
+        "parent": "TEAM B TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1739.docx",
+        "children": []
+       }
+      ]
+     }
     ]
-};
-
-
-  
+   },
+   {
+    "name": "C",
+    "parent": "TNCC Team",
+    "Status": "None",
+    "children": [
+     {
+      "name": "J DAVIES ",
+      "parent": "C",
+      "Status": "None",
+      "children": [
+       {
+        "name": "◊ BP1705: Interface between Control Person (Operation) and Control Person (Safety)",
+        "parent": "J DAVIES ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "◊ BP1708: Technical Limitations",
+        "parent": "J DAVIES ",
+        "Status": "UNKNOWN",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1708.docx",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "R WOOD ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "C REED ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "R SORE ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "T HAWTHORNE ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S LYNCH ",
+      "parent": "C",
+      "Status": "None",
+      "children": [
+       {
+        "name": "◊ BP1511: Transmission Dispatch Review and Audit",
+        "parent": "S LYNCH ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1511.docx",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "A FLEMMING ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "T JOSEPH ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A JOHNSTON ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A KOTECHA ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "H MANGROLA ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M ATKIN ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M BLAKELY ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M CHAMBERS ",
+      "parent": "C",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "TEAM C TBC ",
+      "parent": "C",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1745: Operation and Maintenance Procedure between NG and UKPN at Sellindge",
+        "parent": "TEAM C TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1745.docx",
+        "children": []
+       },
+       {
+        "name": "BP1765: Management of DAR Outage Requests at the TNCC ",
+        "parent": "TEAM C TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1765.docx",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "D",
+    "parent": "TNCC Team",
+    "Status": "None",
+    "children": [
+     {
+      "name": "B TAN ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A MUHOMA ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M ARMSON ",
+      "parent": "D",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1980: Northern Transmission Area Operations and Planning Guide",
+        "parent": "M ARMSON ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1980.doc",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "R DRON ",
+      "parent": "D",
+      "Status": "None",
+      "children": [
+       {
+        "name": "◊ BP1822: Substation Automation - Reactive Control Schemes",
+        "parent": "R DRON ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1822.docx",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "S LAD ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "D ADAMS ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "I PASHA ",
+      "parent": "D",
+      "Status": "None",
+      "children": [
+       {
+        "name": "◊ BP1700: Operational Switching and Logging",
+        "parent": "I PASHA ",
+        "Status": "IN PROGRESS",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1700.docx",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "S SARKAR ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M HODSON ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A ROSILLO ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "D GAUNTLET ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "G WILSON ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "N HUNT ",
+      "parent": "D",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "TEAM D TBC ",
+      "parent": "D",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1814: Transformers - Operation of Quadrature Boosters",
+        "parent": "TEAM D TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1814.docx",
+        "children": []
+       },
+       {
+        "name": "BP1815: Substation Automation - Synchronising",
+        "parent": "TEAM D TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1815.docx",
+        "children": []
+       },
+       {
+        "name": "BP1816: Substation Automation - Demand Tripping Schemes",
+        "parent": "TEAM D TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1816.docx",
+        "children": []
+       },
+       {
+        "name": "BP1817: Phase Unbalance and Negative Phase Sequence",
+        "parent": "TEAM D TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1817.docx",
+        "children": []
+       },
+       {
+        "name": "BP1821: Automatic Tap Change Control",
+        "parent": "TEAM D TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1821.docx",
+        "children": []
+       },
+       {
+        "name": "BP1825: Post Fault Restoration of Grid and Supergrid Infeeds to 132kV and Lower Voltage Systems",
+        "parent": "TEAM D TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1825.docx",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "E",
+    "parent": "TNCC Team",
+    "Status": "None",
+    "children": [
+     {
+      "name": "S GREGORY ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "I BOTTOMER ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M WOOD ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S MATHOBELLA ",
+      "parent": "E",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1762: Management of Earth Wire Access",
+        "parent": "S MATHOBELLA ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1762.docx",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "P BRIERLEY ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A RAKHSHAFAR ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "L PALFRY ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "C CHARLSON ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A HAZI ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "G O'HANLON ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "D PEAK ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M TRANTER ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M NAEEM ",
+      "parent": "E",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "TEAM E TBC ",
+      "parent": "E",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1826: Switching Overvoltages",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1826.docx",
+        "children": []
+       },
+       {
+        "name": "BP1831: Switchgear - Circuit Breaker Operating Restrictions",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1831.docx",
+        "children": []
+       },
+       {
+        "name": "BP1835: Switchgear - Trapped Charge",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1835%20-%20Withdrawn.doc",
+        "children": []
+       },
+       {
+        "name": "BP1846: Substation Automation - North Wales Special Protection Schemes",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1846.docx",
+        "children": []
+       },
+       {
+        "name": "BP1870: BritNed Operating Protocol",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1870.docx",
+        "children": []
+       },
+       {
+        "name": "BP1871: Management of the BritNed Interconnector",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1871.docx",
+        "children": []
+       },
+       {
+        "name": "BP1872: EWIC Operating Protocol",
+        "parent": "TEAM E TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1872.docx",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "R",
+    "parent": "TNCC Team",
+    "Status": "None",
+    "children": [
+     {
+      "name": "D PRITCHARD ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "T HUGHES ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S TURLEY ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "K BYRNE ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M BEDDOW ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "B WHITE ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M NUTT ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "D BEAUMONT ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "T BLUNDELL ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "L STORER ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M OWUYE ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A McGRANDLES ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S SMITH ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "L TAYLOR ",
+      "parent": "R",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "TEAM R TBC ",
+      "parent": "R",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1873: Management of the East West Interconnector",
+        "parent": "TEAM R TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1873.docx",
+        "children": []
+       },
+       {
+        "name": "BP1876: Operation of the IFA Cross Channel Link (Pink Version)",
+        "parent": "TEAM R TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1876.docx",
+        "children": []
+       },
+       {
+        "name": "BP1877: Management of the Anglo-French Interconnector",
+        "parent": "TEAM R TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1877.docx",
+        "children": []
+       },
+       {
+        "name": "BP1879: Sellindge Operational Tripping Scheme",
+        "parent": "TEAM R TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1879.docx",
+        "children": []
+       },
+       {
+        "name": "BP1981: Southern Transmission Area Operational and Planning Guide",
+        "parent": "TEAM R TBC ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "n/a",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Day Office",
+    "parent": "TNCC Team",
+    "Status": "None",
+    "children": [
+     {
+      "name": "S BAKEWELL",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S BRACE",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "D MICHIE",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M JONES",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "L STROUD",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "T TAYLOR",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "G BELLIS",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "M GRAVES",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "A THORNTON",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S LEEDHAM",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "R COPE",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "J McHUGH",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": [
+       {
+        "name": "NOC11: ETO Standby Callout",
+        "parent": "J McHUGH",
+        "Status": "IN PROGRESS",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "n/a",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "T O'SULLIVAN",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "N SAEED",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": [
+       {
+        "name": "AS003: TNCC Response Managemnt Process ",
+        "parent": "N SAEED",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "n/a",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "E CLUNEY",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "S MAUND",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "T BALDWIN",
+      "parent": "Day Office",
+      "Status": "None",
+      "children": [
+       {
+        "name": "◊ BP1260: Transmission Dispatch Best Practice",
+        "parent": "T BALDWIN",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1260T.docx",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Legal Separation Project",
+    "parent": "TNCC Team",
+    "Status": "None",
+    "children": [
+     {
+      "name": "F MACMILLAN ",
+      "parent": "Legal Separation Project",
+      "Status": "None",
+      "children": [
+       {
+        "name": "AS002: Manangement of Emergency Contact Lists for Serious Incidents",
+        "parent": "F MACMILLAN ",
+        "Status": "BLOCKED",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "◊ BP1023: Management Reporting, Investigation and Action Tracking",
+        "parent": "F MACMILLAN ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1023.docx",
+        "children": []
+       },
+       {
+        "name": "BP1107",
+        "parent": "F MACMILLAN ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "BP1109: Organisation and Roles of Control Room Staff under Black Start Conditions",
+        "parent": "F MACMILLAN ",
+        "Status": "WARNING: Passed through LSP without proper checks",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "◊ BP1233: Integrated Electricity Management System (IEMS) Database and Display Change Management",
+        "parent": "F MACMILLAN ",
+        "Status": "with Barrie White",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1233.docx",
+        "children": []
+       },
+       {
+        "name": "◊ BP1202: Reactive Management",
+        "parent": "F MACMILLAN ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1202%20(1).docx",
+        "children": []
+       },
+       {
+        "name": "◊ BP1419: Contingency Operation during total loss of iEMS",
+        "parent": "F MACMILLAN ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1419%20-%20BCM.docx",
+        "children": []
+       },
+       {
+        "name": "BP1504: ENCC Incident Management",
+        "parent": "F MACMILLAN ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "◊ BP1608: Weather Reporting",
+        "parent": "F MACMILLAN ",
+        "Status": "UNRESOLVED ISSUES: Who is to take charge of weather reporting in future? SO?",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1608.doc",
+        "children": []
+       },
+       {
+        "name": "✔ BP1740: Fault Interfering Disconnectors",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1733.docx",
+        "children": []
+       },
+       {
+        "name": "✔ BP1742: Policy for Management of Signalling Channel Faults",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1742.docx",
+        "children": []
+       },
+       {
+        "name": "✔ BP1743: Power Line Carrier Protection",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ BP1746: MBCZ Busbar",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ BP1755: Substation Automation - Auto Switching Schemes",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1755%20(1).docx",
+        "children": []
+       },
+       {
+        "name": "✔ BP1812: Delayed Auto Reclose",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ BP1818: Substation Automation - Operational Tripping Schemes",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1818.docx",
+        "children": []
+       },
+       {
+        "name": "✔ BP1827: Protection - Circuit Live Trip and DAR Testing",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/LBP1827.docx",
+        "children": []
+       },
+       {
+        "name": "✔ BP1841: Digital Busbar",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ BP1843: Single Switch Mesh",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ BP1845: Unit Protection Limitations",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "NSI/30: Safety Rules Authorisations",
+        "parent": "F MACMILLAN ",
+        "Status": "UNKNOWN",
+        "DueDate": "12 Mar 18",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ TP105: Circuit Trip Event",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "✔ TP105: Abnormal Occurrence",
+        "parent": "F MACMILLAN ",
+        "Status": "COMPLETE: Passed through LSP Sign-off",
+        "DueDate": "N/A",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "TP139",
+        "parent": "F MACMILLAN ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "TP170",
+        "parent": "F MACMILLAN ",
+        "Status": "UNKNOWN",
+        "DueDate": "UNKNOWN",
+        "ETOlink": "n/a",
+        "children": []
+       },
+       {
+        "name": "◊ TP201: Power System Contingency Arrangements E&W",
+        "parent": "F MACMILLAN ",
+        "Status": "READY FOR REVIEW",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/TPs/LS%20TP201%20(1).doc",
+        "children": []
+       },
+       {
+        "name": "◊ TP213: Substation Flood Risk Assessment and Flood Risk Monitoring",
+        "parent": "F MACMILLAN ",
+        "Status": "BLOCKED: Signed out to D DODDS",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "n/a",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "F NOURI",
+      "parent": "Legal Separation Project",
+      "Status": "None",
+      "children": []
+     },
+     {
+      "name": "NOT FOR TNCC",
+      "parent": "Legal Separation Project",
+      "Status": "None",
+      "children": [
+       {
+        "name": "BP1832: Geomagnetically Induced Currents",
+        "parent": "NOT FOR TNCC",
+        "Status": "UNKNOWN",
+        "DueDate": "28 Feb 18",
+        "ETOlink": "http://sptx/sites/AssetMgt/Pln/NOC/Legal%20Separation%20Project/BPs/BP1831.docx",
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
