@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
+   "name": "analytics", value": 3923,
    "children": [
     {
      "name": "cluster",
